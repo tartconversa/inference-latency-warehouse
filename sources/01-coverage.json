@@ -1,0 +1,50 @@
+{
+  "intake": 1,
+  "table": "coverage",
+  "records": [
+    {
+      "id": "ec1",
+      "stream": "edgeX",
+      "shard": "east",
+      "span": [
+        0,
+        20
+      ],
+      "grade": "complete",
+      "mirror_of": null
+    },
+    {
+      "id": "gc1",
+      "stream": "gateX",
+      "shard": "east",
+      "span": [
+        0,
+        20
+      ],
+      "grade": "complete",
+      "mirror_of": "edgeX"
+    },
+    {
+      "id": "ec2",
+      "stream": "edgeX",
+      "shard": "east",
+      "span": [
+        25,
+        35
+      ],
+      "grade": "complete",
+      "mirror_of": null
+    },
+    {
+      "id": "wc1",
+      "stream": "edgeY",
+      "shard": "west",
+      "span": [
+        0,
+        40
+      ],
+      "grade": "complete",
+      "mirror_of": null
+    }
+  ]
+}

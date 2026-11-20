@@ -1,0 +1,13 @@
+{
+  "intake": 1,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "incident1",
+      "submission": "ev-start",
+      "incident": "inc17",
+      "action": "accepted",
+      "response": null
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "intake": 3,
+  "table": "receipts",
+  "records": [
+    {
+      "id": "ack1",
+      "submission": "ev-start",
+      "incident": "inc17",
+      "action": "closed",
+      "response": null
+    },
+    {
+      "id": "ack2",
+      "submission": "ev-fix",
+      "incident": "inc17",
+      "action": "accepted",
+      "response": null
+    }
+  ]
+}

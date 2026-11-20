@@ -1,0 +1,16 @@
+{
+  "intake": 3,
+  "table": "offline",
+  "records": [
+    {
+      "id": "y-east",
+      "shard": "east",
+      "span": [
+        10,
+        25
+      ],
+      "status": "complete",
+      "supersedes": "ec1"
+    }
+  ]
+}

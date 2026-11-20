@@ -1,0 +1,59 @@
+{
+  "histograms": {
+    "id": "text",
+    "stream": "text",
+    "shard": "text",
+    "generation": "text",
+    "time": "int",
+    "bounds": "items",
+    "counts": "ints"
+  },
+  "coverage": {
+    "id": "text",
+    "stream": "text",
+    "shard": "text",
+    "span": "range",
+    "grade": "text",
+    "mirror_of": "text"
+  },
+  "policies": {
+    "id": "text",
+    "customer": "text",
+    "service": "text",
+    "shard": "text",
+    "span": "range",
+    "threshold": "int",
+    "max_ppm": "int"
+  },
+  "offline": {
+    "id": "text",
+    "shard": "text",
+    "span": "range",
+    "status": "text",
+    "supersedes": "text"
+  },
+  "requests": {
+    "id": "text",
+    "delivery": "text",
+    "shard": "text",
+    "request_key": "text",
+    "time": "int",
+    "latency": "int"
+  },
+  "sent": {
+    "id": "text",
+    "customer": "text",
+    "service": "text",
+    "shard": "text",
+    "policies": "items",
+    "intake": "text",
+    "action": "text"
+  },
+  "receipts": {
+    "id": "text",
+    "submission": "text",
+    "incident": "text",
+    "action": "text",
+    "response": "text"
+  }
+}

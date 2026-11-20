@@ -1,0 +1,18 @@
+{
+  "intake": 2,
+  "table": "sent",
+  "records": [
+    {
+      "id": "ev-fix",
+      "customer": "client1",
+      "service": "defect",
+      "shard": "west",
+      "policies": [
+        "k3",
+        "k4"
+      ],
+      "intake": "2",
+      "action": "amend"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "intake": 2,
+  "table": "requests",
+  "records": [
+    {
+      "id": "e-x1",
+      "delivery": "x-east",
+      "shard": "east",
+      "request_key": "req01",
+      "time": 11,
+      "latency": 83
+    },
+    {
+      "id": "e-x2",
+      "delivery": "x-east",
+      "shard": "east",
+      "request_key": "req04",
+      "time": 16,
+      "latency": 51
+    },
+    {
+      "id": "e-x3",
+      "delivery": "x-east",
+      "shard": "east",
+      "request_key": "req07",
+      "time": 22,
+      "latency": 49
+    },
+    {
+      "id": "w-x1",
+      "delivery": "x-west",
+      "shard": "west",
+      "request_key": "req11",
+      "time": 11,
+      "latency": 12
+    },
+    {
+      "id": "w-x2",
+      "delivery": "x-west",
+      "shard": "west",
+      "request_key": "req12",
+      "time": 12,
+      "latency": 16
+    },
+    {
+      "id": "w-x3",
+      "delivery": "x-west",
+      "shard": "west",
+      "request_key": "req13",
+      "time": 14,
+      "latency": 23
+    },
+    {
+      "id": "w-x4",
+      "delivery": "x-west",
+      "shard": "west",
+      "request_key": "req14",
+      "time": 15,
+      "latency": 28
+    },
+    {
+      "id": "w-x5",
+      "delivery": "x-west",
+      "shard": "west",
+      "request_key": "req15",
+      "time": 19,
+      "latency": 51
+    }
+  ]
+}

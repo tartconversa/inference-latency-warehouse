@@ -1,0 +1,70 @@
+{
+  "intake": 3,
+  "table": "requests",
+  "records": [
+    {
+      "id": "e-y1",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req01",
+      "time": 11,
+      "latency": 83
+    },
+    {
+      "id": "e-y2",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req02",
+      "time": 12,
+      "latency": 8
+    },
+    {
+      "id": "e-y3",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req03",
+      "time": 14,
+      "latency": 45
+    },
+    {
+      "id": "e-y4",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req04",
+      "time": 16,
+      "latency": 51
+    },
+    {
+      "id": "e-y5",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req05",
+      "time": 18,
+      "latency": 13
+    },
+    {
+      "id": "e-y6",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req06",
+      "time": 19,
+      "latency": 45
+    },
+    {
+      "id": "e-y7",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req07",
+      "time": 22,
+      "latency": 49
+    },
+    {
+      "id": "e-y8",
+      "delivery": "y-east",
+      "shard": "east",
+      "request_key": "req08",
+      "time": 24,
+      "latency": 72
+    }
+  ]
+}

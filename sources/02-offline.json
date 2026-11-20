@@ -1,0 +1,26 @@
+{
+  "intake": 2,
+  "table": "offline",
+  "records": [
+    {
+      "id": "x-east",
+      "shard": "east",
+      "span": [
+        10,
+        25
+      ],
+      "status": "sample",
+      "supersedes": null
+    },
+    {
+      "id": "x-west",
+      "shard": "west",
+      "span": [
+        10,
+        20
+      ],
+      "status": "complete",
+      "supersedes": "wc1"
+    }
+  ]
+}
